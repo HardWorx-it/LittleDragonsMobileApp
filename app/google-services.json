@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706639680741",
+    "project_id": "littledragons-93582",
+    "storage_bucket": "littledragons-93582.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706639680741:android:4f66263c65c57d3402300c",
+        "android_client_info": {
+          "package_name": "com.example.littledragons"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV5NJsi75TzDNFtsLkZWCtTZO_O6Bl5hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
